@@ -1,0 +1,17 @@
+fieldset, input {
+	width: 20em;
+	text-align: center;
+}
+
+legend {
+	font-size: 22px;
+}
+
+button, body {
+	background-color: beige;
+}
+
+button {
+	border-color: beige;
+	height: 40px;
+}
